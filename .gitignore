@@ -3,7 +3,7 @@
 build
 .ropeproject
 docs/_build
-Bolacha.egg-info
+*.egg-info
 dist
 .coverage
 *.tmp
