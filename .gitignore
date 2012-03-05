@@ -9,3 +9,4 @@ dist
 *.tmp
 log.txt
 bolacha-*.tar.gz
+/.tox/
